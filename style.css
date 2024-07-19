@@ -32,6 +32,15 @@ table {
 
     justify-content: center;
   }
+  .contenta{
+    margin-bottom: 20px;
+    display: inline-flex;
+    justify-content: center;
+    width: 90%;
+    float: left;
+
+    justify-content: center;
+  }
   img.asd{
     display: flex;
     justify-content: center;
@@ -98,6 +107,12 @@ a:hover {
      float: right;
      display: grid;
     }
+    .contenta{
+      justify-content: center;
+    width: 100%;
+   float: right;
+ 
+  }
     img.asd{
 
       height: 100%;
