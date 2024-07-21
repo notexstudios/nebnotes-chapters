@@ -13,7 +13,7 @@ body {
 h2{
     display: flex;
     justify-content: center;
-    color: black;
+
     margin-top:  30px;
     font-size: 25px;
     font-weight: bold;
@@ -28,7 +28,7 @@ table {
     display: inline-flex;
     justify-content: center;
     width: 90%;
-    float: left;
+    
 
     justify-content: center;
   }
@@ -37,7 +37,7 @@ table {
     display: inline-flex;
     justify-content: center;
     width: 90%;
-    float: left;
+
 
     justify-content: center;
   }
@@ -71,13 +71,11 @@ table {
     border: 2px solid cadetblue;
   }
   
-  tr{background-color: #ffffff;
+  tr{
     border: 2px solid cadetblue;
 }
 a{
     text-decoration: none;
-    color: black;
-    background-color: #eeeaea;
 }
 .img{
   display: grid;
@@ -104,13 +102,13 @@ a:hover {
       .content{
         justify-content: center;
       width: 100%;
-     float: right;
+    
      display: grid;
     }
     .contenta{
       justify-content: center;
     width: 100%;
-   float: right;
+
  
   }
     img.asd{
